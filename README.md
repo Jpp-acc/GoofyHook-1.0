@@ -1,5 +1,6 @@
 # GoofyHook 1.0
-Is a Webhook Raider
+
+· GoofyHook is a Webhook raider / nuker send msg you can put the Webhook, the msg, how many times it send, you can change the name of the BOT and the avatar
 
 If you like the project, consider dropping a star ⭐
 
