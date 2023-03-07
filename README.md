@@ -7,9 +7,13 @@
 
 2 - Extract the folder                                              
 
-3 - Open the .exe "GoofyHook                                              
+3 - Open the .exe "GoofyHook"                                              
 
 4 - Done!                                              
+
+# Preview
+
+![image](https://user-images.githubusercontent.com/127041554/223293514-b58d0743-575d-4be2-8bcb-bdd3cad38780.png)
 
 # Support me! ♥
 
