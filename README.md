@@ -13,7 +13,7 @@
 
 # Preview
 
-![image](https://user-images.githubusercontent.com/127041554/223293514-b58d0743-575d-4be2-8bcb-bdd3cad38780.png)
+![image](https://user-images.githubusercontent.com/127041554/223294438-69090737-8401-4f8c-9e8c-23f1f360b31b.png)
 
 # Support me! ♥
 
