@@ -1,0 +1,1 @@
+# GoofyHook-1.0
